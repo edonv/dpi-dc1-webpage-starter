@@ -1,0 +1,15 @@
+h1 {
+    color: green;
+}
+
+h2 {
+    color: black;
+}
+
+li {
+    font-style: italic;
+}
+
+img {
+    border: green solid 2px;
+}
